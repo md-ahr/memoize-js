@@ -1,9 +1,9 @@
 // Implement custom memoization function
 
 const employees = [
-  { id: 1, name: 'Abdul Halim', post: 'frontend developer', salary: '30000' },
-  { id: 2, name: 'Nahid Islam', post: 'ui/ux developer', salary: '35000' },
-  { id: 3, name: 'Johir Raihan', post: 'executive manager', salary: '40000' },
+  { id: 1, name: 'Abdul Halim', post: 'frontend developer', salary: '4000' },
+  { id: 2, name: 'Nahid Islam', post: 'ui/ux developer', salary: '3500' },
+  { id: 3, name: 'Johir Raihan', post: 'executive manager', salary: '5000' },
 ];
 
 function getTotalSalary(data) {
